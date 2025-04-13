@@ -1,0 +1,7 @@
+{
+  "imagePullSecrets": [
+    {
+      "name": "acr-secret"
+    }
+  ]
+}
